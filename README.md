@@ -199,16 +199,11 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 
 ```
 
-## License ⚖
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact 📧
+## Contact
 
 For any questions or suggestions, feel free to open an issue or contact us at [shawnastaff@gmail.com].
 
 ### Special note at this time the iOS build has not been built. Building iOS will require some basic knowledge of native iOS development.
-```
 
 ## License
 
