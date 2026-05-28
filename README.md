@@ -155,7 +155,6 @@ A mobile application for managing personal budgets and finances, built with Reac
 6. **Promote Financial Literacy**
    - Access links to informative media to educate yourself about money management.
 
-
 ## Contributing ➕
 
 Contributions are welcome! If you have any improvements, bug fixes, or new features to add, follow these steps:
@@ -210,3 +209,11 @@ For any questions or suggestions, feel free to open an issue or contact us at [s
 
 ### Special note at this time the iOS build has not been built. Building iOS will require some basic knowledge of native iOS development.
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
